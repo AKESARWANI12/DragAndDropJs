@@ -1,2 +1,5 @@
+# Drag and Drop Website
 
-[DragAndDropWebsite using JS :draganddropkr.vercel.app/](draganddropkr.vercel.app/)
+Welcome to the Drag and Drop Website repository! Visit the live demo:
+
+[DragAndDropWebsite using JS](https://draganddropkr.vercel.app/)
